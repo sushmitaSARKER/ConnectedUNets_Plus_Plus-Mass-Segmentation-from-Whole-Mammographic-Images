@@ -5,6 +5,8 @@ to achieve better convergence. The proposed architectures uses full mammogram im
 object detection model.
 
 ### Results
+<img src="https://github.com/user-attachments/assets/d2536dfd-9678-4b9b-9e3b-f81736015071" alt="image" width="650" height="400" />
+
 ![UNets++ Result](https://github.com/user-attachments/assets/d2536dfd-9678-4b9b-9e3b-f81736015071)
 
 ![Unets2](https://github.com/user-attachments/assets/bacc8b44-f221-49e6-a108-f0687cd07d2a)
