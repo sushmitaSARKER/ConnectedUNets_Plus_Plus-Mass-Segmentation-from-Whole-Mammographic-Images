@@ -14,7 +14,7 @@ object detection model.
 
 
 
-### Results
+## Results
 <img src="https://github.com/user-attachments/assets/d2536dfd-9678-4b9b-9e3b-f81736015071" alt="image" width="700" height="350" />
 
 
