@@ -20,6 +20,9 @@ object detection model.
 
 <img src="https://github.com/user-attachments/assets/bacc8b44-f221-49e6-a108-f0687cd07d2a" alt="image" width="700" height="350" />
 
+<img src="https://github.com/user-attachments/assets/ca82bf38-1a84-4fc4-8ea3-abb33cec12c2" alt="image" width="700" height="350" />
+
+
 
 
 
